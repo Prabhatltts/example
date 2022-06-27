@@ -1,0 +1,5 @@
+<note>
+    <COMPORT>COM13</COMPORT>
+    <baudrate>115200</baudrate>
+    <timeout>2</timeout>
+</note>
